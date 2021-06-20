@@ -84,6 +84,7 @@
 			<artifactId>spring-data-rest-hal-browser</artifactId>
 		</dependency>
 
+		<!-- swagger dependency -->
 		<dependency>
 			<groupId>io.springfox</groupId>
 			<artifactId>springfox-swagger2</artifactId>
